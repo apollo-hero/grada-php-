@@ -21,6 +21,8 @@
  * ?>
  * </code>
  *
+
+ 
  * Note: To send requests to the live gateway, either define this:
  * define("AUTHORIZENET_SANDBOX", false);
  *   -- OR -- 
